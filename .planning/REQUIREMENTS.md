@@ -43,7 +43,7 @@ Explicitly excluded. Documented to prevent scope creep.
 
 | Feature | Reason |
 |---------|--------|
-| Menu/pricing page | User explicitly excluded — this is a vibe page |
+| Menu/pricing page | User explicitly excluded -- this is a vibe page |
 | Location/hours | User explicitly skipped |
 | Contact form | Adds backend complexity, not needed for brand presence |
 | Newsletter signup | Requires third-party integration, scope creep |
@@ -56,21 +56,21 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HERO-01 | TBD | Pending |
-| HERO-02 | TBD | Pending |
-| HERO-03 | TBD | Pending |
-| ABOUT-01 | TBD | Pending |
-| ABOUT-02 | TBD | Pending |
-| ABOUT-03 | TBD | Pending |
-| SITE-01 | TBD | Pending |
-| SITE-02 | TBD | Pending |
-| SITE-03 | TBD | Pending |
+| HERO-01 | Phase 2 - Hero Section | Pending |
+| HERO-02 | Phase 2 - Hero Section | Pending |
+| HERO-03 | Phase 2 - Hero Section | Pending |
+| ABOUT-01 | Phase 3 - About Section | Pending |
+| ABOUT-02 | Phase 3 - About Section | Pending |
+| ABOUT-03 | Phase 3 - About Section | Pending |
+| SITE-01 | Phase 1 - Foundation | Pending |
+| SITE-02 | Phase 4 - Polish and Launch | Pending |
+| SITE-03 | Phase 4 - Polish and Launch | Pending |
 
 **Coverage:**
 - v1 requirements: 9 total
-- Mapped to phases: 0
-- Unmapped: 9
+- Mapped to phases: 9
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-05*
-*Last updated: 2026-02-05 after initial definition*
+*Last updated: 2026-02-05 after roadmap creation*
