@@ -12,7 +12,7 @@ A 4-phase roadmap that scaffolds the project foundation first, then builds the t
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation** - Project scaffold, layout shell, design tokens, mobile-first baseline
+- [x] **Phase 1: Foundation** - Project scaffold, layout shell, design tokens, mobile-first baseline
 - [ ] **Phase 2: Hero Section** - Full-viewport hero with background visual and tagline
 - [ ] **Phase 3: About Section** - Brand story section with side image
 - [ ] **Phase 4: Polish and Launch** - SEO metadata, footer, final spacing and review
@@ -30,8 +30,8 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Scaffold Next.js project, configure Tailwind and design tokens
-- [ ] 01-02-PLAN.md — Build responsive layout shell with fonts, verify at all breakpoints
+- [x] 01-01-PLAN.md — Scaffold Next.js project, configure Tailwind and design tokens
+- [x] 01-02-PLAN.md — Build responsive layout shell with fonts, verify at all breakpoints
 
 ### Phase 2: Hero Section
 **Goal**: A visitor landing on the page sees a bold, full-viewport hero that immediately communicates brand identity.
@@ -83,7 +83,7 @@ Plans:
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/2 | Not started | - |
+| 1. Foundation | 2/2 | Complete | 2026-02-06 |
 | 2. Hero Section | 0/2 | Not started | - |
 | 3. About Section | 0/2 | Not started | - |
 | 4. Polish and Launch | 0/2 | Not started | - |
