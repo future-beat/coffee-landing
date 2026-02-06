@@ -27,11 +27,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   1. Running `npm run dev` starts the site with no errors and the browser shows a valid page
   2. The layout shell renders correctly at mobile, tablet, and desktop widths with no horizontal overflow
   3. Design tokens (colors, spacing, typography) are defined in one place and applied consistently
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 01-01: Scaffold Next.js project, install dependencies, configure Tailwind and design tokens
-- [ ] 01-02: Build layout shell with mobile-first responsive grid and verify at all breakpoints
+- [ ] 01-01-PLAN.md — Scaffold Next.js project, configure Tailwind and design tokens
+- [ ] 01-02-PLAN.md — Build responsive layout shell with fonts, verify at all breakpoints
 
 ### Phase 2: Hero Section
 **Goal**: A visitor landing on the page sees a bold, full-viewport hero that immediately communicates brand identity.
