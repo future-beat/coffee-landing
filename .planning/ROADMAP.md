@@ -42,11 +42,10 @@ Plans:
   2. A punchy, differentiated tagline is clearly readable against the background at all screen sizes
   3. The background visual (image or color with overlay) renders without layout shift and stays under 200KB
   4. The hero layout adapts cleanly to mobile, tablet, and desktop without text or image clipping
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 02-01: Build hero background (image or overlay) with next/image and priority loading
-- [ ] 02-02: Add hero tagline content and verify responsive layout at all breakpoints
+- [ ] 02-01-PLAN.md — Full-viewport hero with color background and responsive tagline
 
 ### Phase 3: About Section
 **Goal**: A visitor who scrolls past the hero encounters a clear brand story that reinforces the shop's identity and aesthetic.
@@ -84,6 +83,6 @@ Plans:
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete | 2026-02-06 |
-| 2. Hero Section | 0/2 | Not started | - |
+| 2. Hero Section | 0/1 | Not started | - |
 | 3. About Section | 0/2 | Not started | - |
 | 4. Polish and Launch | 0/2 | Not started | - |
