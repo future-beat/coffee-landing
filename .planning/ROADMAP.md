@@ -13,8 +13,8 @@ A 4-phase roadmap that scaffolds the project foundation first, then builds the t
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation** - Project scaffold, layout shell, design tokens, mobile-first baseline
-- [ ] **Phase 2: Hero Section** - Full-viewport hero with background visual and tagline
-- [ ] **Phase 3: About Section** - Brand story section with side image
+- [x] **Phase 2: Hero Section** - Full-viewport hero with background visual and tagline
+- [x] **Phase 3: About Section** - Brand story section with side image
 - [ ] **Phase 4: Polish and Launch** - SEO metadata, footer, final spacing and review
 
 ## Phase Details
@@ -45,7 +45,7 @@ Plans:
 **Plans**: 1 plan
 
 Plans:
-- [ ] 02-01-PLAN.md — Full-viewport hero with color background and responsive tagline
+- [x] 02-01-PLAN.md — Full-viewport hero with color background and responsive tagline
 
 ### Phase 3: About Section
 **Goal**: A visitor who scrolls past the hero encounters a clear brand story that reinforces the shop's identity and aesthetic.
@@ -55,11 +55,10 @@ Plans:
   1. The about section displays a heading and brand story paragraph that reads as a coherent narrative
   2. A side image is visible alongside the text content on desktop and repositions gracefully on mobile
   3. The section layout is readable and well-proportioned at mobile, tablet, and desktop widths
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 03-01: Build about section with heading, story text, and side image layout
-- [ ] 03-02: Verify responsive behavior and refine spacing at all breakpoints
+- [x] 03-01-PLAN.md — Build about section with responsive grid and side image
 
 ### Phase 4: Polish and Launch
 **Goal**: The site is production-ready: discoverable by search engines, complete with a footer, and visually cohesive end to end.
@@ -83,6 +82,6 @@ Plans:
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation | 2/2 | Complete | 2026-02-06 |
-| 2. Hero Section | 0/1 | Not started | - |
-| 3. About Section | 0/2 | Not started | - |
+| 2. Hero Section | 1/1 | Complete | 2026-02-07 |
+| 3. About Section | 1/1 | Complete | 2026-02-07 |
 | 4. Polish and Launch | 0/2 | Not started | - |
