@@ -13,8 +13,37 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Coffee Shop",
-  description: "Modern specialty coffee experience",
+  title: "Craft Coffee | Modern Specialty Coffee Experience",
+  description: "Where every cup is a journey. Discover our modern, design-forward approach to specialty coffee.",
+  metadataBase: new URL('https://craftcoffee.example.com'),
+  keywords: ['coffee shop', 'specialty coffee', 'craft coffee'],
+  authors: [{ name: 'Craft Coffee' }],
+  openGraph: {
+    title: "Craft Coffee | Modern Specialty Coffee Experience",
+    description: "Where every cup is a journey. Discover our modern, design-forward approach to specialty coffee.",
+    url: '/',
+    siteName: 'Craft Coffee',
+    locale: 'en_US',
+    type: 'website',
+    images: [
+      {
+        url: '/opengraph-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Craft Coffee - Modern specialty coffee shop',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "Craft Coffee | Modern Specialty Coffee Experience",
+    description: "Where every cup is a journey.",
+    images: ['/opengraph-image.jpg'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
