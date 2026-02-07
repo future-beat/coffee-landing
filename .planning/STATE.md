@@ -5,32 +5,33 @@
 See: .planning/PROJECT.md (updated 2026-02-05)
 
 **Core value:** Convey the coffee shop's modern, design-forward identity through minimal, impactful visuals.
-**Current focus:** Phase 1 - Foundation (Complete)
+**Current focus:** Phase 2 - Hero Section (Complete)
 
 ## Current Position
 
-Phase: 1 of 4 (Foundation)
-Plan: 2 of 2 in current phase
+Phase: 2 of 4 (Hero)
+Plan: 1 of 1 in current phase
 Status: Phase complete
-Last activity: 2026-02-06 -- Completed 01-02-PLAN.md
+Last activity: 2026-02-06 -- Completed 02-01-PLAN.md
 
-Progress: [██░░░░░░░░] 25%
+Progress: [███░░░░░░░] 38%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 2
+- Total plans completed: 3
 - Average duration: 3min
-- Total execution time: 0.1 hours
+- Total execution time: 0.15 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
 | 01-foundation | 2/2 | 6min | 3min |
+| 02-hero | 1/1 | 3min | 3min |
 
 **Recent Trend:**
-- Last 5 plans: 3min, 3min
+- Last 5 plans: 3min, 3min, 3min
 - Trend: Consistent execution pace
 
 *Updated after each plan completion*
@@ -48,6 +49,9 @@ Recent decisions affecting current work:
 - 01-01: Brand colors defined in oklch color space for perceptual uniformity and better accessibility
 - 01-02: Font loading via next/font/google for automatic optimization and zero layout shift
 - 01-02: Mobile-first responsive pattern: px-4 md:px-8 lg:px-16 for consistent edge spacing
+- 02-01: Used min-h-dvh instead of h-screen for mobile browser chrome stability
+- 02-01: Typography scaling uses 5-step progression from text-3xl to xl:text-7xl
+- 02-01: Visual hierarchy via opacity (primary 100%, secondary 80%)
 
 ### Pending Todos
 
@@ -60,5 +64,5 @@ None yet.
 ## Session Continuity
 
 Last session: 2026-02-06
-Stopped at: Completed 01-02-PLAN.md (Layout shell with fonts and responsive structure)
+Stopped at: Completed 02-01-PLAN.md (Full-viewport hero with responsive tagline)
 Resume file: None

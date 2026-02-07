@@ -1,22 +1,21 @@
+import About from "./components/About"
+
 export default function Home() {
   return (
     <main className="min-h-screen">
-      {/* Hero placeholder - will be replaced in Phase 2 */}
-      <section className="h-screen flex items-center justify-center px-4 md:px-8 lg:px-16">
-        <h1 className="font-display text-4xl md:text-5xl lg:text-6xl text-center">
-          Coffee Shop
-        </h1>
+      {/* Hero Section */}
+      <section className="min-h-dvh flex items-center justify-center bg-brand-espresso px-4 sm:px-6 md:px-8 lg:px-16">
+        <div className="text-center max-w-4xl">
+          <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-brand-cream leading-tight">
+            Craft Coffee, Elevated
+          </h1>
+          <p className="mt-4 md:mt-6 text-lg sm:text-xl md:text-2xl text-brand-cream/80 max-w-2xl mx-auto">
+            Where every cup is a journey
+          </p>
+        </div>
       </section>
 
-      {/* About placeholder - will be replaced in Phase 3 */}
-      <section className="py-16 px-4 md:px-8 lg:px-16">
-        <h2 className="font-display text-3xl md:text-4xl mb-6">
-          Our Story
-        </h2>
-        <p className="max-w-prose">
-          Placeholder for the about section content.
-        </p>
-      </section>
+      <About />
     </main>
   )
 }
