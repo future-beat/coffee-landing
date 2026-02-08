@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "Craft Coffee | Modern Specialty Coffee Experience",
   description: "Where every cup is a journey. Discover our modern, design-forward approach to specialty coffee.",
-  metadataBase: new URL('https://coffee-landing-9t0iizvjq-hesams-projects-432a48c6.vercel.app'),
+  metadataBase: new URL('https://coffee-landing-delta.vercel.app'),
   keywords: ['coffee shop', 'specialty coffee', 'craft coffee'],
   authors: [{ name: 'Craft Coffee' }],
   openGraph: {
